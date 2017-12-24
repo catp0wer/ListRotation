@@ -2,16 +2,20 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Rotation {
+    private static final int FIRST = 0;
 
-    public void Rotate() {
-        ArrayList<Integer> myList = new ArrayList<Integer>(Arrays.asList(1, 2, 3, 4, 5, 6));
-
-        for (int i = 0; i < 1; i++) {
-            int temp = myList.get(i);
+    public ArrayList<Integer> Rotate(int numberOfRotations, ArrayList<Integer> myList) {
+        int count = 0;
+        for (int i = 0; i < numberOfRotations; i++) {
+            int temp = myList.get(FIRST);
             myList.add(temp);
-            myList.remove(i);
+            myList.remove(FIRST);
             System.out.println(myList);
-        }
+
+        }return myList;
+
+
+
 
     }
 }

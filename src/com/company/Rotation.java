@@ -1,10 +1,13 @@
+package com.company;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Rotation {
+class Rotation {
     private static final int FIRST = 0;
 
-    public ArrayList<Integer> Rotate(int numberOfRotations, ArrayList<Integer> myList) {
+    ArrayList<Integer> Rotate(int numberOfRotations, ArrayList<Integer> myList) {
+        numberOfRotations = numberOfRotations % myList.size();
         int count = 0;
         for (int i = 0; i < numberOfRotations; i++) {
             int temp = myList.get(FIRST);

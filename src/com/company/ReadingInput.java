@@ -13,7 +13,7 @@ class ReadingInput {
         return scanner.nextInt();
     }
 
-    ArrayList<Integer> ReadFile(String filePath) {
+    ArrayList<Integer> fromFile(String filePath) {
 
         String line = "";
 

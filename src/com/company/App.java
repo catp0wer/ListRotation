@@ -5,7 +5,8 @@ import java.util.ArrayList;
 public class App {
 
     public static void main(String[] args){
-       String filePath = "D:\\Git_projects\\ListRotation\\List.txt";
+      // String filePath = "D:\\Git_projects\\ListRotation\\List.txt";
+        String filePath = "List.txt";
        ReadingInput fileList = new ReadingInput();
        ArrayList<Integer> readList = fileList.fromFile(filePath);
 

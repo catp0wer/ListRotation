@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8c571b-d127-4a14-9c7d-0e54f06c8c6c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/List_Rotation/com/company/App.class" afterPath="$PROJECT_DIR$/out/production/List_Rotation/com/company/App.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/App.java" afterPath="$PROJECT_DIR$/src/com/company/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/ReadingInput.java" afterPath="$PROJECT_DIR$/src/com/company/ReadingInput.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +19,8 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,8 +76,8 @@
         <option value="$PROJECT_DIR$/src/KeyboardInput.java" />
         <option value="$PROJECT_DIR$/src/com/company/KeyboardInput.java" />
         <option value="$PROJECT_DIR$/src/com/company/Rotation.java" />
-        <option value="$PROJECT_DIR$/src/com/company/App.java" />
         <option value="$PROJECT_DIR$/src/com/company/ReadingInput.java" />
+        <option value="$PROJECT_DIR$/src/com/company/App.java" />
       </list>
     </option>
   </component>
@@ -356,7 +357,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1514381119773" expanded="true" signature="43007:43022" ph="..." />
+            <marker date="1514393610588" expanded="true" signature="43135:43150" ph="..." />
           </folding>
         </state>
       </provider>
@@ -400,7 +401,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1514381119773" expanded="true" signature="43007:43022" ph="..." />
+            <marker date="1514393610588" expanded="true" signature="43135:43150" ph="..." />
           </folding>
         </state>
       </provider>
@@ -444,7 +445,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1514381119773" expanded="true" signature="43007:43022" ph="..." />
+            <marker date="1514393610588" expanded="true" signature="43135:43150" ph="..." />
           </folding>
         </state>
       </provider>
@@ -488,7 +489,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1514381119773" expanded="true" signature="43007:43022" ph="..." />
+            <marker date="1514393610588" expanded="true" signature="43135:43150" ph="..." />
           </folding>
         </state>
       </provider>
@@ -568,7 +569,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1514381119773" expanded="true" signature="43007:43022" ph="..." />
+            <marker date="1514393610588" expanded="true" signature="43135:43150" ph="..." />
           </folding>
         </state>
       </provider>
@@ -648,7 +649,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1514381119773" expanded="true" signature="43007:43022" ph="..." />
+            <marker date="1514393610588" expanded="true" signature="43135:43150" ph="..." />
           </folding>
         </state>
       </provider>
@@ -709,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 
 public class App {
     //private static Logger LOGGER = Logger.getLogger("InfoLogging");
-    private final Logger LOG = LoggerFactory.getLogger(App.class);
+    private final static Logger LOG = LoggerFactory.getLogger(App.class);
     public static void main(String[] args){
       //  LOGGER.setLevel(Level.FINE);
       //  LOGGER.info("Logging an INFO-level message");
